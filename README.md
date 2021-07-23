@@ -1,6 +1,6 @@
 # Padrões de Projeto
 
-## Este repositório tem como principal objetivo servir como consulta na aplicação prática dos principais padrões de projeto.
+## Este repositório tem como principal objetivo servir como consulta na aplicação prática dos principais padrões de projeto
 
 ### Conteúdo
 
@@ -38,30 +38,30 @@
 
 <h4 align="center">🚧  Projeto Em construção...  🚧</h4>
 
-### Features
+## Features
 
-- [ ]Abstract Factory
-- [ ]Factory Method
-- [ ]Builder
-- [ ]Prototype
-- [ ]Singleton
+- [ ] Abstract Factory
+- [ ] Factory Method
+- [ ] Builder
+- [ ] Prototype
+- [ ] Singleton
 
-- [ ]Adapter
-- [ ]Bridge
-- [ ]Composite
-- [ ]Decorator
-- [ ]Façade
-- [ ]Flyweight
-- [ ]Proxy
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Façade
+- [ ] Flyweight
+- [ ] Proxy
 
-- [ ]Interpreter
-- [ ]Template method
-- [ ]Chain of responsibility
-- [ ]Iterator
-- [ ]Command
-- [ ]Mediator
-- [ ]Memento
-- [ ]Observer
-- [ ]State
-- [ ]Strategy
-- [ ]Visitor
+- [ ] Interpreter
+- [ ] Template method
+- [ ] Chain of responsibility
+- [ ] Iterator
+- [ ] Command
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Visitor

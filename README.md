@@ -40,28 +40,28 @@
 
 ### Features
 
-- [ ]Abstract Factory
-- [ ]Factory Method
-- [ ]Builder
-- [ ]Prototype
-- [ ]Singleton
+- [ ] Abstract Factory
+- [ ] Factory Method
+- [ ] Builder
+- [ ] Prototype
+- [ ] Singleton
 
-- [ ]Adapter
-- [ ]Bridge
-- [ ]Composite
-- [ ]Decorator
-- [ ]Façade
-- [ ]Flyweight
-- [ ]Proxy
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Façade
+- [ ] Flyweight
+- [ ] Proxy
 
-- [ ]Interpreter
-- [ ]Template method
-- [ ]Chain of responsibility
-- [ ]Iterator
-- [ ]Command
-- [ ]Mediator
-- [ ]Memento
-- [ ]Observer
-- [ ]State
-- [ ]Strategy
-- [ ]Visitor
+- [ ] Interpreter
+- [ ] Template method
+- [ ] Chain of responsibility
+- [ ] Iterator
+- [ ] Command
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Visitor

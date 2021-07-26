@@ -1,6 +1,6 @@
 # Padrões de Projeto
 
-## Este repositório tem como principal objetivo servir como consulta na aplicação prática dos principais padrões de projeto
+## Este repositório tem como principal objetivo servir de consulta na aplicação prática dos principais padrões de projeto
 
 ### Conteúdo
 
